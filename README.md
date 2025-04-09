@@ -3,7 +3,8 @@
 
 ### I'm Mario, a software developer from 🇲🇽 passionate about building clean, efficient and user-friendly applications.
 
-![Banner](./images/github-header-image.png)
+<img src="./ruta-a-tu-svg/marware-banner.svg" alt="Marware banner" />
+
 
 ---
 
