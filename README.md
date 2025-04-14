@@ -3,7 +3,7 @@
 
 ### I'm Mario, a software developer from 🇲🇽 passionate about building clean, efficient and user-friendly applications.
 
-<img src="./ruta-a-tu-svg/marware-banner.svg" alt="Marware banner" />
+
 
 
 ---
@@ -32,27 +32,22 @@
 
 ---
 
-## 🔥 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioHMis&layout=compact&theme=default)
-
----
 
 ## 📌 Featured Projects
 
-- [🩺 Medlife Telemedicine](https://github.com/MarioHMis/medlife) — Java + Spring Boot + MySQL  
-- [🐔 Chicken POS](https://github.com/MarioHMis/chicken-pos) — Django + Bootstrap  
+- [🩺 Medilife Telemedicine](https://github.com/MarioHMis/medlife) — Java + Spring Boot + MySQL  
+- [🐔 C POS](https://github.com/MarioHMis/chicken-pos) — Django + Bootstrap  
 - [📝 CLI Task Manager](https://github.com/MarioHMis/cli-task-manager) — Java CLI App using Maven & Gson  
 
-*(Pinea estos proyectos en tu perfil para destacarlos)*
+
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
-- 🌐 [Portfolio Website](https://tu-portfolio.com)  
-- 📬 Email: mariohmis@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mario-mis/)  
+- 📬 Email: mariohmis@gmail.com
 
 ---
 
