@@ -36,9 +36,19 @@
 
 ## 📌 Featured Projects
 
-- [🩺 Medilife Telemedicine](https://github.com/MarioHMis/medlife) — Java + Spring Boot + MySQL  
-- [🐔 C POS](https://github.com/MarioHMis/chicken-pos) — Django + Bootstrap  
-- [📝 CLI Task Manager](https://github.com/MarioHMis/cli-task-manager) — Java CLI App using Maven & Gson  
+
+### 🔧 TaskTrackCLI
+
+A simple and powerful command-line task manager built with Java 17 and Maven.
+
+- ✅ Status management (TODO, IN_PROGRESS, DONE)
+- 💾 JSON-based persistent storage
+- 🔢 Task selection by number
+- 📦 Packaged as a runnable `.jar`
+- 🧪 Includes unit tests with JUnit 5
+
+🔗 [View on GitHub](https://github.com/MarioHMis/TaskTrackCLI)  
+📥 [Download `.jar`](https://github.com/MarioHMis/TaskTrackCLI/releases/latest)
 
 
 
