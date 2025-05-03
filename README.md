@@ -3,9 +3,6 @@
 
 ### I'm Mario, a software developer from 🇲🇽 passionate about building clean, efficient and user-friendly applications.
 
-
-
-
 ---
 
 ## 🧑‍💻 About Me
@@ -32,10 +29,7 @@
 
 ---
 
-
-
 ## 📌 Featured Projects
-
 
 ### 🔧 TaskTrackCLI
 
@@ -50,7 +44,20 @@ A simple and powerful command-line task manager built with Java 17 and Maven.
 🔗 [View on GitHub](https://github.com/MarioHMis/TaskTrackCLI)  
 📥 [Download `.jar`](https://github.com/MarioHMis/TaskTrackCLI/releases/latest)
 
+---
 
+### 🛡️ CRUD_AUTH
+
+A modern and responsive web application built with Django 5 and Bootstrap 5. It provides a secure platform for managing personal tasks with full authentication support.
+
+- 🔐 Custom authentication system (Login / Register)
+- 📋 Full CRUD for user-specific tasks
+- 🌗 Light and dark theme toggle
+- 🧠 Protected routes for authenticated users
+- 🚀 Deployed with PostgreSQL on Render
+
+🔗 [View on GitHub](https://github.com/MarioHMis/CRUD_AUTH)  
+🌐 [Live Demo](https://crud-auth-hijd.onrender.com)
 
 ---
 
